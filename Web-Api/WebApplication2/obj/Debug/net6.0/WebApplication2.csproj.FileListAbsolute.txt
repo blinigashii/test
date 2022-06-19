@@ -1,0 +1,111 @@
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\appsettings.json
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\WebApplication2.exe
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\WebApplication2.deps.json
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\WebApplication2.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\WebApplication2.pdb
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CopyComplete
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\refint\WebApplication2.dll
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+C:\Users\blini\Desktop\WebApplication2\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\appsettings.json
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\WebApplication2.exe
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\WebApplication2.deps.json
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\WebApplication2.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\WebApplication2.pdb
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CopyComplete
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\refint\WebApplication2.dll
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+C:\Users\blini\Desktop\full-stack-app\Web-Api\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.AssemblyReference.cache
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.AssemblyInfo.cs
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\refint\WebApplication2.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.pdb
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\appsettings.json
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\WebApplication2.exe
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\WebApplication2.deps.json
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\WebApplication2.runtimeconfig.json
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\WebApplication2.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\WebApplication2.pdb
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\scopedcss\bundle\WebApplication2.styles.css
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.csproj.CopyComplete
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\WebApplication2.genruntimeconfig.cache
+C:\Users\blini\Desktop\VT-FullstackCrudApp Copy\Web-Api\WebApplication2\obj\Debug\net6.0\ref\WebApplication2.dll
